@@ -8,15 +8,12 @@ namespace SSPGitSession
     public class home
     {
 
-    public int calculate(int x , int y)
-        {
-            Console.WriteLine("x+y");
-            return x + y;
+
+       
+    public int calculate(int a , int b)
+        {             
+            return a + b;
+
         }
-
-
-        //changes added by user A
-
-        //changes added by featurebracnh3
     }
 }
