@@ -9,16 +9,11 @@ namespace SSPGitSession
     {
 
 
-        //this method returns the sum
-    public int calculate(int x , int y)
+       
+    public int calculate(int a , int b)
         {
-        console.log(x+y);
-            return x + y;
+       
+            return a + b;
         }
-
-
-        //changes added by user A
-
-        //changes added by featurebracnh3
     }
 }
