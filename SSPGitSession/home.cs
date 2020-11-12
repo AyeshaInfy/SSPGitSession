@@ -8,6 +8,8 @@ namespace SSPGitSession
     public class home
     {
 
+
+        //this method returns the sum
     public int calculate(int x , int y)
         {
             return x + y;
