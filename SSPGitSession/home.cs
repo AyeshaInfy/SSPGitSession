@@ -10,6 +10,7 @@ namespace SSPGitSession
 
     public int calculate(int x , int y)
         {
+            Console.WriteLine("x+y");
             return x + y;
         }
 
