@@ -10,6 +10,7 @@ namespace SSPGitSession
 
     public int calculate(int x , int y)
         {
+        console.log(x+y);
             return x + y;
         }
 
